@@ -2,7 +2,7 @@
 # inclusion..
 ### REQUIRED ###
 # OPENCM3_DIR - duh
-# PROJECT - will be the basename of the output elf, eg usb-gadget0-stm32f4disco
+#  PROJECT - will be the basename of the output elf, eg usb-gadget0-stm32f4disco
 # CFILES - basenames only, eg main.c blah.c
 # CXXFILES - same for C++ files. Must have cxx suffix!
 # DEVICE - the full device name, eg stm32f405ret6
